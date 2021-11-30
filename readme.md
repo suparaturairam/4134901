@@ -7,12 +7,15 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 ![นางสาวศุภรัตน์ อุไรรัมย์]()
 > รหัสนักศึกษา 610112418049
 
-Link 
+Link
+
 [LAB1](https://github.com/suparaturairam/4134901/tree/main/LAB1)
+
 [LAB2](https://github.com/suparaturairam/4134901/tree/main/LAB2)
 
 
 RUN
+
 **LAB1**
 >npm install
 ```
