@@ -8,7 +8,6 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 > รหัสนักศึกษา 610112418049
 
 Link
-
 [LAB1](https://github.com/suparaturairam/4134901/tree/main/LAB1)
 [LAB2](https://github.com/suparaturairam/4134901/tree/main/LAB2)
 
