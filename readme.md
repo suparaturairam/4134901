@@ -4,7 +4,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ### นางสาวศุภรัตน์ อุไรรัมย์
-![นางสาวศุภรัตน์ อุไรรัมย์]("")
+![นางสาวศุภรัตน์ อุไรรัมย์]("https://lh3.googleusercontent.com/QP0uCUHpJx_sIZ8yZrsDT1vgceU-jZX_DS-R9WqkUxQUxLyoU5GJ4y2QAQUcF_fDo_xKRQ=s85")
 > รหัสนักศึกษา 610112418049
 
 Link
