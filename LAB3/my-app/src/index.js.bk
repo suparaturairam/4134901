@@ -1,0 +1,11 @@
+import React from "react";
+import ReactDom from "react-dom";
+
+const number = [5, 2];
+const text = (
+  <p>
+    Hello World !!!<br></br> {number[0] + number[1]}
+  </p>
+);
+
+ReactDom.render(text, document.getElementById("root"));
