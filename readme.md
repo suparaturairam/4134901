@@ -4,7 +4,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ### นางสาวศุภรัตน์ อุไรรัมย์
-![นางสาวศุภรัตน์ อุไรรัมย์](https://lh3.googleusercontent.com/fU1bLUW8pbHFRQh-dqnWYojOkK9BUC1fh-8BxwKCFQne2T7-AyA5J80drXndup_OLagf=s85)
+![นางสาวศุภรัตน์ อุไรรัมย์](https://scontent.fnak3-1.fna.fbcdn.net/v/t39.30808-6/268559787_2712779339030398_8818517889202501454_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=LPM4xcC_qjgAX9s35u8&_nc_ht=scontent.fnak3-1.fna&oh=00_AT_3DjBxGkKQIkewmEtP6UNMGo8DT5vAPz_0xVd9Fcntgw&oe=61C6968B)
 > รหัสนักศึกษา 610112418049
 
 Link
