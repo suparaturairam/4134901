@@ -6,6 +6,8 @@ import Car from "./components/Car";
 import List from "./components/List";
 import Brand from "./components/UI";
 import DataTable from "./components/Table";
+import Hook from "./components/Hook";
+
 
 ReactDOM.render(
   <>
@@ -13,6 +15,7 @@ ReactDOM.render(
     <List />
     <Brand />
     <DataTable />
+    <Hook />
   </>,
   document.getElementById("root")
 );
