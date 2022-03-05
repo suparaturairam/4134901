@@ -10,7 +10,10 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 Link
 [LAB1](https://github.com/suparaturairam/4134901/tree/main/LAB1)
 [LAB2](https://github.com/suparaturairam/4134901/tree/main/LAB2)
-
+[LAB3](https://github.com/suparaturairam/4134901/tree/main/LAB3)
+[LAB6](https://github.com/suparaturairam/4134901/tree/main/LAB6)
+[LAB7](https://github.com/suparaturairam/4134901/tree/main/LAB7)
+[LAB8](https://github.com/suparaturairam/4134901/tree/main/LAB8)
 
 RUN
 
